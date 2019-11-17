@@ -5,7 +5,8 @@
   "main": "./src/index.js",
   "scripts": {
     "lint": "eslint src test",
-    "build": "babel-node src/index.js  --out-dir src/"
+    "build": "babel-node src/index.js  --out-dir src/",
+    "test": "jest /test"
   },
   "files": [
     "examples",
@@ -41,7 +42,8 @@
   "devDependencies": {
     "@babel/core": "^7.7.2",
     "@babel/node": "^7.7.0",
-    "@babel/preset-env": "^7.7.1"
+    "@babel/preset-env": "^7.7.1",
+    "jest": "^24.9.0"
   },
   "dependencies": {
     "bignumber.js": "^9.0.0"
