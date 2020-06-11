@@ -54,6 +54,17 @@ This package currently supports *bitcoin* , *ethereum* and *binance chain* block
 
 *unit (string) - bnb*
 
+> convert from HNS to Dollarydoos
+
+**convertHNS( value , unit)** 
+
+*unit (string) - dollarydoos
+
+> convert from Dollarydoos to HNS
+
+**convertDollaryDoos( value , unit)** 
+
+*unit (string) - hns
 
 **example**
 
@@ -68,12 +79,7 @@ This package currently supports *bitcoin* , *ethereum* and *binance chain* block
     conv.convertEther(300, 'finney'); //300000
     
     conv.convertWei(300, 'ether'); //0.0000000000000003
-    
 
-
-
-
-  
 
 # License
 
