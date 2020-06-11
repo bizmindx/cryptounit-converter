@@ -1,6 +1,6 @@
 # cryptounit-converter
 
-**easily convert btc, ether, bnb to their crypto unit** ✨
+**easily convert btc, ether, bnb, hns to their crypto unit** ✨
 
 
 
