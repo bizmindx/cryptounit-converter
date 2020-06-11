@@ -1,6 +1,6 @@
 {
   "name": "cryptounit-converter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "easily convert btc, ether, bnb to their crypto unit",
   "main": "./src/index.js",
   "scripts": {
@@ -31,7 +31,12 @@
     "ethereum converter",
     "ether",
     "crypto converter",
-    "conversion"
+    "conversion",
+    "handshake",
+    "handshake to unit",
+    "handshake to dollarydoos",
+    "dollarydoos",
+    "HNS converter"
   ],
   "author": {
     "name": "Joseph Peculiar",
